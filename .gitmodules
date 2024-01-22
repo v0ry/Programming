@@ -1,0 +1,6 @@
+[submodule "C Programming/upstream-voluntary-exercises"]
+	path = C Programming/upstream-voluntary-exercises
+	url = git@gitlab.tugraz.at:EDDB4C0A582C42FD/upstream-voluntary-exercises.git
+[submodule "CPP/oop1ss22-oop1-coding-exercises-236"]
+	path = CPP/oop1ss22-oop1-coding-exercises-236
+	url = git@gitlab.tugraz.at:esp_oop1_isds/oop1_ss2022/students/oop1ss22-oop1-coding-exercises-236.git
