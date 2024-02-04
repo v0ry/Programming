@@ -13,3 +13,6 @@
 [submodule "C"]
 	path = C
 	url = git@github.com:v0ry/C.git
+[submodule "WebDev"]
+	path = WebDev
+	url = git@github.com:v0ry/WebDev.git
