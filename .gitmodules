@@ -7,3 +7,6 @@
 [submodule "TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises"]
 	path = TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises
 	url = git@github.com:v0ry/TOP-css-exercises.git
+[submodule "TOP/HTML&CSS/Foundations Course/css-exercises"]
+	path = TOP/HTML&CSS/Foundations Course/css-exercises
+	url = git@github.com:v0ry/css-exercises.git
