@@ -1,6 +1,3 @@
-[submodule "C Programming/upstream-voluntary-exercises"]
-	path = C Programming/upstream-voluntary-exercises
-	url = git@gitlab.tugraz.at:EDDB4C0A582C42FD/upstream-voluntary-exercises.git
 [submodule "TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises"]
 	path = TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises
 	url = git@github.com:v0ry/TOP-css-exercises.git
