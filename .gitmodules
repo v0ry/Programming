@@ -10,3 +10,6 @@
 [submodule "TOP/HTML&CSS/Foundations Course/css-exercises"]
 	path = TOP/HTML&CSS/Foundations Course/css-exercises
 	url = git@github.com:v0ry/css-exercises.git
+[submodule "Complete-Python-3-Bootcamp"]
+	path = Complete-Python-3-Bootcamp
+	url = git@github.com:v0ry/Complete-Python-3-Bootcamp.git
