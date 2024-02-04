@@ -1,9 +1,6 @@
 [submodule "C Programming/upstream-voluntary-exercises"]
 	path = C Programming/upstream-voluntary-exercises
 	url = git@gitlab.tugraz.at:EDDB4C0A582C42FD/upstream-voluntary-exercises.git
-[submodule "CPP/oop1ss22-oop1-coding-exercises-236"]
-	path = CPP/oop1ss22-oop1-coding-exercises-236
-	url = git@gitlab.tugraz.at:esp_oop1_isds/oop1_ss2022/students/oop1ss22-oop1-coding-exercises-236.git
 [submodule "TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises"]
 	path = TOP/HTML&CSS/Foundations Course/HTML Foundations/html-boilerplate/Projects/TOP-css-exercises
 	url = git@github.com:v0ry/TOP-css-exercises.git
@@ -13,3 +10,6 @@
 [submodule "Complete-Python-3-Bootcamp"]
 	path = Complete-Python-3-Bootcamp
 	url = git@github.com:v0ry/Complete-Python-3-Bootcamp.git
+[submodule "CPP"]
+	path = CPP
+	url = git@github.com:v0ry/CPP.git
